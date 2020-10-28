@@ -39,13 +39,13 @@ You can include R chunks like so:
 
 ``` r
 summary(cars)
-Comment One      speed           dist       
-Comment One  Min.   : 4.0   Min.   :  2.00  
-Comment One  1st Qu.:12.0   1st Qu.: 26.00  
-Comment One  Median :15.0   Median : 36.00  
-Comment One  Mean   :15.4   Mean   : 42.98  
-Comment One  3rd Qu.:19.0   3rd Qu.: 56.00  
-Comment One  Max.   :25.0   Max.   :120.00
+Comment Two      speed           dist       
+Comment Two  Min.   : 4.0   Min.   :  2.00  
+Comment Two  1st Qu.:12.0   1st Qu.: 26.00  
+Comment Two  Median :15.0   Median : 36.00  
+Comment Two  Mean   :15.4   Mean   : 42.98  
+Comment Two  3rd Qu.:19.0   3rd Qu.: 56.00  
+Comment Two  Max.   :25.0   Max.   :120.00
 ```
 
 You’ll still need to render `README.Rmd` regularly, to keep `README.md`
